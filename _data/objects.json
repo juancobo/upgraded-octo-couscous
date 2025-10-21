@@ -63,5 +63,18 @@
     "credit": "John Carter Brown Library, Brown University, Providence, R.I.",
     "thumbnail": "",
     "iiif_manifest": "https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCB~1~1~278~100020/manifest"
+  },
+  {
+    "object_id": "UCSB_University_Center_and_Storke_Tower",
+    "title": "UCSB in the sun",
+    "description": "A picture of the University Center and Storke Tower",
+    "creator": "UCSB",
+    "period": "2025",
+    "medium": "Photograph",
+    "dimensions": "dimensions",
+    "location": "location",
+    "credit": "credit",
+    "thumbnail": "thumbnail",
+    "iiif_manifest": "iiif_manifest"
   }
 ]
